@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/to-do-list-chai-enzyme/static/css/main.24dbfd78.chunk.css",
+    "main.js": "/to-do-list-chai-enzyme/static/js/main.51159d60.chunk.js",
+    "main.js.map": "/to-do-list-chai-enzyme/static/js/main.51159d60.chunk.js.map",
+    "runtime-main.js": "/to-do-list-chai-enzyme/static/js/runtime-main.e5029077.js",
+    "runtime-main.js.map": "/to-do-list-chai-enzyme/static/js/runtime-main.e5029077.js.map",
+    "static/js/2.a106c36a.chunk.js": "/to-do-list-chai-enzyme/static/js/2.a106c36a.chunk.js",
+    "static/js/2.a106c36a.chunk.js.map": "/to-do-list-chai-enzyme/static/js/2.a106c36a.chunk.js.map",
+    "static/js/3.3819ef18.chunk.js": "/to-do-list-chai-enzyme/static/js/3.3819ef18.chunk.js",
+    "static/js/3.3819ef18.chunk.js.map": "/to-do-list-chai-enzyme/static/js/3.3819ef18.chunk.js.map",
+    "index.html": "/to-do-list-chai-enzyme/index.html",
+    "static/css/main.24dbfd78.chunk.css.map": "/to-do-list-chai-enzyme/static/css/main.24dbfd78.chunk.css.map",
+    "static/js/2.a106c36a.chunk.js.LICENSE.txt": "/to-do-list-chai-enzyme/static/js/2.a106c36a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5029077.js",
+    "static/js/2.a106c36a.chunk.js",
+    "static/css/main.24dbfd78.chunk.css",
+    "static/js/main.51159d60.chunk.js"
+  ]
+}
